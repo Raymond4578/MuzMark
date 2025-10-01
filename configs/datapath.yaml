@@ -1,0 +1,18 @@
+  # benchmark dataset paths
+  AIR: ./data/AIR/AIR_1_4
+  DEMAND: ./data/DEMAND
+  Clotho: null
+  DAPS: null
+  MoisesDB: null
+#  MoisesDB: ./data/MoisesDB/moisesdb_mixed
+  jaCapella: ./data/jaCappella/jaCappella_mono
+  GuitarSet: ./data/GuitarSet/audio_mono-mic
+  MAESTRO: ./data/MAESTRO/maestro_filtered
+  PCD: ./data/PCD/PCD_filtered
+  Bach10: ./data/Bach10
+  Freischuetz: ./data/Freischuetz
+
+  # training
+  Tency: null
+  VCTK: null
+  BBC_Sound_Effects: null

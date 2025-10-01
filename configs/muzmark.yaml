@@ -1,0 +1,13 @@
+
+use: True
+
+FSWE: True
+
+wm_positioner:
+  use: True
+  hop_length: 512
+  batch_size: 30
+
+
+
+

@@ -1,0 +1,14 @@
+
+
+device: cuda
+device_id: 2
+
+sample_rate: 44100 # 这个会影响 timbre.yaml 中的 process.audio.sample_rate
+
+allow_missing_dataset: True
+
+LDPC:
+  use: True
+  real_msg_len: 11
+  row_weight: 2
+  col_weight: 3
